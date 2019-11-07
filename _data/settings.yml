@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: Kitsap County Real Estate Video Blog with Shari and Karl Royston
+description: Our mission at The Royston Team is to be your best resource for Kitsap County real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Royston Team, your professional Kitsap County Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,41 +11,43 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Shari and Karl Royston
   title:
   license_number:
   about_markdown: |
+    Shari Royston is a licensed Managing Broker serving the Olympic Peninsula. Married to a Retired Naval Submariner, she offers a wealth of knowledge and resources for families transferring to the area. Shari’s high standards and dedication to her clients has made her one of the top agents in Kitsap County. Her knowledge of the market and industry helps clients feel at ease through the entire process. As a Certified Military Relocation Professional and as a military spouse, Shari understands what it takes to help Military families buy or sell a home. Working with Shari will help make your real estate transaction proceed as smooth as possible from beginning to end.
 
-  brand:
-  brokerage:
-  market:
-  address:
-  phone:
+    Since joining Keller Williams in 2015, Karl has prided himself in his passionate and heartfelt drive to serve his clients' best interests. As a retired Naval Submarine Officer, he is dedicated, knowledgeable, and committed to finding the perfect fit, whether move-in ready or fixer upper, for his clientele. He understands the challenges of a job relocation, having done several over his 23 year military career, and offers a wealth of resources to make this transition as smooth as possible. His devotion and unparalleled customer service has resulted in a continuously expanding network of loyal clients and referrals. Passionate to his craft, he continuously seeks to stay ahead of the game when it comes to market education and trends.
+  brand: The Royston Team
+  brokerage: Keller Williams - Greater Peninsula
+  market: Kitsap County
+  address: 19470 Viking Ave NW STE 202a, Poulsbo, WA 98370
+  phone: 360-525-3574
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@roystonteam.com
+  url: http://www.roystonteam.com/
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.roystonteam.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.roystonteam.com/results-map/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Kitsap County Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.roystonteam.com/home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a Kitsap County Home?"
+    CTA_text2: "Search the entire MLS for your Kitsap County home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.roystonteam.com/results-map/
 
 lender:
   show_section: false
@@ -62,11 +64,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/RoystonTeam/
+  linkedin_url: https://www.linkedin.com/in/shari-royston-3b7662b1/
   youtube_url:
   twitter_url:
-  instagram_url:
+  instagram_url: https://www.instagram.com/roystonteamkw/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -74,19 +76,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Kitsap County Real Estate Podcast with Shari and Karl Royston'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Kitsap County Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Royston Team - your professional Kitsap County Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kitsap County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Shari and Karl Royston'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 30
+  hero_text: Kitsap County Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -94,7 +96,7 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
+  brand_color: '#001c39'
   theme_color: '#999'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
@@ -104,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#001c39'
 
 buttons:
   button_radius_number: 0
