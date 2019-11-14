@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kitsap County Real Estate Video Blog with Shari and Karl Royston</title>
+    <title>Kitsap County Real Estate Video Blog with The Royston Team</title>
     <description>Our mission at The Royston Team is to be your best resource for Kitsap County real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Royston Team, your professional Kitsap County Real Estate Agents.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Nov 2019 14:57:02 -0600</pubDate>
-    <lastBuildDate>Thu, 07 Nov 2019 14:57:02 -0600</lastBuildDate>
+    <pubDate>Thu, 14 Nov 2019 10:29:39 -0600</pubDate>
+    <lastBuildDate>Thu, 14 Nov 2019 10:29:39 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>

@@ -1,5 +1,5 @@
 audit_header: false
-title: Kitsap County Real Estate Video Blog with Shari and Karl Royston
+title: Kitsap County Real Estate Video Blog with The Royston Team
 description: Our mission at The Royston Team is to be your best resource for Kitsap County real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Royston Team, your professional Kitsap County Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -11,15 +11,19 @@ custom_links_new_tab:
     url:
 
 client:
-  name: Shari and Karl Royston
+  name: The Royston Team
   title:
   license_number:
   about_markdown: |
-    Shari Royston is a licensed Managing Broker serving the Olympic Peninsula. Married to a Retired Naval Submariner, she offers a wealth of knowledge and resources for families transferring to the area. Shari’s high standards and dedication to her clients has made her one of the top agents in Kitsap County. Her knowledge of the market and industry helps clients feel at ease through the entire process. As a Certified Military Relocation Professional and as a military spouse, Shari understands what it takes to help Military families buy or sell a home. Working with Shari will help make your real estate transaction proceed as smooth as possible from beginning to end.
+    As agents who are local experts, The Royston Team brings a wealth of knowledge and expertise about buying and selling real estate on the Kitsap Peninsula. It’s not the same everywhere, so you need someone you can trust for up-to-date information.
 
-    Since joining Keller Williams in 2015, Karl has prided himself in his passionate and heartfelt drive to serve his clients' best interests. As a retired Naval Submarine Officer, he is dedicated, knowledgeable, and committed to finding the perfect fit, whether move-in ready or fixer upper, for his clientele. He understands the challenges of a job relocation, having done several over his 23 year military career, and offers a wealth of resources to make this transition as smooth as possible. His devotion and unparalleled customer service has resulted in a continuously expanding network of loyal clients and referrals. Passionate to his craft, he continuously seeks to stay ahead of the game when it comes to market education and trends.
-  brand: The Royston Team
-  brokerage: Keller Williams - Greater Peninsula
+    Real estate is one of the most exciting investments one can make, and it should be a fun and rewarding experience. Here you’ll find everything you’ll need to buy or sell a home, as well as learn about the market value of homes you may own in the area.
+
+    Working with The Royston Team will help make your real estate transaction proceed as smooth as possible from beginning to end.
+
+    Contact us today!
+  brand: Keller Williams - Greater Peninsula
+  brokerage:
   market: Kitsap County
   address: 19470 Viking Ave NW STE 202a, Poulsbo, WA 98370
   phone: 360-525-3574
@@ -76,13 +80,13 @@ socials:
   podcast_url:
 
 podcast:
-  title: 'Kitsap County Real Estate Podcast with Shari and Karl Royston'
+  title: 'Kitsap County Real Estate Podcast with The Royston Team'
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Kitsap County Area Real Estate Market'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Royston Team - your professional Kitsap County Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Kitsap County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Shari and Karl Royston'
+  author: 'The Royston Team'
 
 images:
   client_headshot_path: /img/headshot.jpg
