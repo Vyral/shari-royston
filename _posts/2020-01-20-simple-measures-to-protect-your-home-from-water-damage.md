@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Simple measures to protect your home from water damage
-date: 2020-01-20 18:10:40
+title: Simple Measures to Protect Your Home from Water Damage
+date: 2020-01-20 18:10:00
 tags:
 excerpt: >-
   Water damage is one of a homeowner’s greatest worries since it can result in
