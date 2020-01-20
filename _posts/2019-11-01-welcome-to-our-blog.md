@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Welcome To My Blog
+title: Welcome To Our Blog
 date: 2019-11-01 18:00:00
 tags:
   - Real Estate
 excerpt: >-
-  My monthly messages will provide you with market updates, tips, and other
+  Our monthly messages will provide you with market updates, tips, and other
   educational information having to do with our market.
 enclosure:
 pullquote:
