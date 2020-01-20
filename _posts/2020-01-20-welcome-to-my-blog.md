@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome To My Blog
-date: 2020-01-20 18:00:40
+date: 2020-01-20 18:00:00
 tags:
   - Real Estate
 excerpt:
@@ -14,7 +14,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% include youtube.html %}
+&nbsp;
 
 Our market remains busy, and it’s still an opportune time to command a high price selling your home.&nbsp;&nbsp;
 
