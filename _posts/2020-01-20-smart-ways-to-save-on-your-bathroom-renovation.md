@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Ways to Save on Your Bathroom Renovation
-date: 2020-01-20 18:06:06
+date: 2020-01-20 18:06:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bathroom-300x188.jpeg
+youtube_alternate_image: /uploads/1844ccd7-d79c-4f83-8813-06307ba26aa8.jpg
 youtube_code:
 ---
 
