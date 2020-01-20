@@ -4,7 +4,9 @@ title: Welcome To My Blog
 date: 2020-01-20 18:00:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  My monthly messages will provide you with market updates, tips, and other
+  educational information having to do with our market.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
