@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Floor Cleaning Tips & Tricks
-date: 2020-01-20 18:04:00
+date: 2019-11-22 18:04:00
 tags:
 excerpt: 'Regardless of how tidy you are, your floors, rugs, and carpets get dirty.'
 enclosure:
