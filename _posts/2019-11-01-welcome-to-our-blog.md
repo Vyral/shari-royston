@@ -16,6 +16,8 @@ youtube_alternate_image:
 youtube_code: _8mXh5hY6NI
 ---
 
+{% include youtube.html %}
+
 Our market remains busy, and it’s still an opportune time to command a high price selling your home.&nbsp;&nbsp;
 
 **We know what’s happening in Kitsap County, specifically pertaining to home values, that will directly affect you.**
