@@ -11,9 +11,9 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/4173d827735d14d2ebdd1622367745e4.jpg
-youtube_code:
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: _8mXh5hY6NI
 ---
 
 Our market remains busy, and it’s still an opportune time to command a high price selling your home.&nbsp;&nbsp;
